@@ -1,1 +1,1 @@
-# GameOfLifePygame
+# Game Of Life Pygame
