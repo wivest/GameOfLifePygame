@@ -1,0 +1,48 @@
+class Default:
+
+    START_BUTTON = "Start"
+    START_BUTTON_PAUSE = "Pause"
+    RANDOMISE_BUTTON = "Randomize"
+    CLEAR_BUTTON = "Clear"
+    SUBTRACT_FPS_BUTTON = "-"
+    ADD_FPS_BUTTON = "+"
+    MAX_FPS_BUTTON = "Max"
+    INCREASE_SCALE_BUTTON = "Scale +"
+    DECREASE_SCALE_BUTTON = "Scale -"
+    CHANGE_LANGUAGE_BUTTON = "UA"
+
+    OPEN_MENU_BUTTON = "Menu"
+    OPEN_MENU_BUTTON_CLOSE = "Close"
+    NEARBY_CELLS_MAP_LABEL = "Nearby cells map:"
+    BIRTH_CONDITIONS_LABEL = "Birth conditions:"
+    ALIVE_CONDITIONS_LABEL = "Alive conditions:"
+    INCREASE_COLUMNS_BUTTON = "Columns +"
+    DECREASE_COLUMNS_BUTTON = "Columns -"
+    CURRENT_COLUMNS_LABEL = "Current columns: "
+    INCREASE_ROWS_BUTTON = "Rows +"
+    DECREASE_ROWS_BUTTON = "Rows -"
+    CURRENT_ROWS_LABEL = "Current rows: "
+
+
+class Ukrainian(Default):
+
+    START_BUTTON = "Старт"
+    START_BUTTON_PAUSE = "Пауза"
+    RANDOMISE_BUTTON = "Згенерувати"
+    CLEAR_BUTTON = "Очистити"
+    MAX_FPS_BUTTON = "Макс."
+    INCREASE_SCALE_BUTTON = "Розмір +"
+    DECREASE_SCALE_BUTTON = "Розмір -"
+    CHANGE_LANGUAGE_BUTTON = "EN"
+
+    OPEN_MENU_BUTTON = "Меню"
+    OPEN_MENU_BUTTON_CLOSE = "Закрити"
+    NEARBY_CELLS_MAP_LABEL = "Карта клітин-сусідів:"
+    BIRTH_CONDITIONS_LABEL = "Умови народження:"
+    ALIVE_CONDITIONS_LABEL = "Умови виживання:"
+    INCREASE_COLUMNS_BUTTON = "Стовпці +"
+    DECREASE_COLUMNS_BUTTON = "Стовпці -"
+    CURRENT_COLUMNS_LABEL = "Поточні стовпці: "
+    INCREASE_ROWS_BUTTON = "Рядки +"
+    DECREASE_ROWS_BUTTON = "Рядки -"
+    CURRENT_ROWS_LABEL = "Поточні рядки: "
